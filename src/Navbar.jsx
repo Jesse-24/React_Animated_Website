@@ -12,7 +12,7 @@ const Navbar=()=>{
         <div className='row'>
           <div className="col-10 mx-auto">
          
-        <nav className="navbar navbar-expand-lg navbar-dark n  ">
+        <nav className="navbar navbar-expand-lg navbar-light">
       
         <NavLink exact  className="navbar-brand" to="/">
       
